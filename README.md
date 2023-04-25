@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @typuspos
+- 👋 Hi, I’m Tyler-Benjamin Puspos @typuspos
 - 👀 I’m a student at San Diego State University studying Electrical Engineering with a minor in Computer Science
 - 🌱 I’m currently learning Java, Python, C, Verilog, and MATLAB
 - 📫 You can reach me at tylerpuspos@gmail.com
